@@ -1,0 +1,8 @@
+.background
+{
+    background: linear-gradient(#54e8a8 50%, grey 100%);
+}
+h2{
+    font-family:monospace;
+    color: yellow; 
+}
